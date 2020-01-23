@@ -19,6 +19,13 @@ The skills usd in this project are : C#, .NET, MVC framework, HTML, AJAX, CSS, B
 Address Enrichment for Integrity (Exploratory Analysis) - [Tableau Public](https://public.tableau.com/views/final_hack/Sheet4?:display_count=y&:origin=viz_share_link)
 
 Address Enrichment for Integrity helps to provide insights about a given address by using open data sets that could characterize its locality. Extensive data cleaning and manipulation (Exploratory Analysis) were done on the collected open data sets using Microsoft Excel. Four square API were used to collect data to know the about the surrounding of the address data and was visualized using Tableau.
+The skills used in this project are : Tableau, Microsoft Excel, HTML, CSS, Bootstrap
+
+Job Scheduler - [Github](https://github.com/Mehar-singh96/Job-Schedular.git)
+
+The software assigns jobs to job scheduler. Min Heap data structure is used to keep track of executed time and Red Black Tree data structure was used to keep track of Job ID.
+The skills used in this project: Java
+
 
 
 
