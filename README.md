@@ -16,8 +16,9 @@ Car Rental Web Application - [Website](https://ellitecarrental20191214034251.azu
 The Elite Car Rental Project allows the user to book car by adding their pickup date. The user is supposed to create its profile once by providing its information like name, contact number and driver’s licence. While booking the car the system matches the user’s location and all the filter options entered by the user. It then provides all the possible car options available at that date. Once the booking is completed the user also gets an option to modify the booking. 
 The skills usd in this project are : C#, .NET, MVC framework, HTML, AJAX, CSS, Bootstrap
 
+Address Enrichment for Integrity (Exploratory Analysis) - [Website](https://public.tableau.com/views/final_hack/Sheet4?:display_count=y&:origin=viz_share_link)
 
-
+Address Enrichment for Integrity helps to provide insights about a given address by using open data sets that could characterize its locality. Extensive data cleaning and manipulation (Exploratory Analysis) were done on the collected open data sets using Microsoft Excel. Four square API were used to collect data to know the about the surrounding of the address data and was visualized using Tableau.
 
 
 
