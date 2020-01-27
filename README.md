@@ -26,6 +26,18 @@ Job Scheduler - [Github](https://github.com/Mehar-singh96/Job-Schedular.git)
 The software assigns jobs to job scheduler. Min Heap data structure is used to keep track of executed time and Red Black Tree data structure was used to keep track of Job ID.
 The skills used in this project: Java
 
+Data visualization of sale and use of Cannabis in Canada - [Tableau](https://public.tableau.com/profile/mehar.singh#!/vizhome/DataVizArt2020/Story1?publish=yes)
+
+Different data sets on the use and sale of Cannabis in Canada were analysed and were graphically represented. Some of the questions covered in the visualization were:
+
+- What is the consumption pattern of Cannabis across Canada based on the price sensitivity? 
+- What is the relation between the consumer and the producer prices across Canada? 
+- How do different age groups relate to the violations made in the Cannabis Industry? 
+- What are the consumer Cannabis consumptioin patterns with respect to Age, Gender and Regions in Canada?  
+
+
+
+
 
 
 
