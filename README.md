@@ -24,7 +24,7 @@ The software assigns jobs to job scheduler. Min Heap data structure is used to k
 The skills used in this project: Java
 
 
-Tableau Projects:
+<B>Tableau Projects</B>:
 
 
 Data visualization of sale and use of Cannabis in Canada - [Tableau](https://public.tableau.com/profile/mehar.singh#!/vizhome/DataVizArt2020/Story1?publish=yes)
