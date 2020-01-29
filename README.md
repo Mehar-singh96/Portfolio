@@ -29,12 +29,12 @@ The skills used in this project: Java
 
 Data visualization of sale and use of Cannabis in Canada - [Tableau](https://public.tableau.com/profile/mehar.singh#!/vizhome/DataVizArt2020/Story1?publish=yes)
 
-Different data sets on the use and sale of Cannabis in Canada were analysed and were graphically represented. The data was first cleaned using Microsoft Excel and was the visualized using Tableau. Some of the key questions covered in the visualization were:
+Different data sets on the use and sale of Cannabis in Canada were analyzed and were graphically represented. The data was first cleaned using Microsoft Excel and was visualized using Tableau. Some of the key questions covered in the visualization were:
 
-- What is the consumption pattern of Cannabis across Canada based on the price sensitivity? 
+- What is the consumption pattern of Cannabis across Canada based on price sensitivity? 
 - What is the relation between the consumer and the producer prices across Canada? 
 - How do different age groups relate to the violations made in the Cannabis Industry? 
-- What are the consumer Cannabis consumptioin patterns with respect to Age, Gender and Regions in Canada?  
+- What are the consumer Cannabis consumption patterns with respect to Age, Gender and Regions in Canada?  
 
 The skills used in the project: Tableau, Microsoft Excel
 
