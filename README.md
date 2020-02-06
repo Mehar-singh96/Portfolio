@@ -2,7 +2,7 @@ LinkedIN Profile: www.linkedin.com/in/mehar1singh
 Email: meharsingh9966@gmail.com
 
 
-This portfolio is a compilation of notebooks and my projects which I completed to gain some hands-on experience in the software development and data science domain.
+This portfolio is a compilation of notebooks and my projects which I completed to gain some hands-on experience in the data science domain and software development.
 
 
 Halifax Public Library SQL Application - [github](https://github.com/Mehar-singh96/Halifax_Public_Library_PHP_SQL_Application.git)
@@ -35,7 +35,6 @@ Different data sets on the use and sale of Cannabis in Canada were analyzed and 
 - What is the relation between the consumer and the producer prices across Canada? 
 - How do different age groups relate to the violations made in the Cannabis Industry? 
 - What are the consumer Cannabis consumption patterns with respect to Age, Gender and Regions in Canada?  
-
 The skills used in the project: Tableau, Microsoft Excel
 
 
