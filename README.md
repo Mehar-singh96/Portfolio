@@ -5,7 +5,7 @@ Email: meharsingh9966@gmail.com
 This portfolio is a compilation of notebooks and my projects which I completed to gain some hands-on experience in the data science domain and software development.
 
 
-Clustring - [github](https://github.com/Mehar-singh96/Clustring-Analysis)
+Sobeys Data Analysis - [github](https://github.com/Mehar-singh96/Clustring-Analysis)
 
 Sales data of Sobey was analyzed to understand customer purchase patterns and product patterns to classify them in distinct segments using centroid based K-Mean clustering analysis. The segmented data for customers was used to understand the purchase patterns of customers and marketing strategies were recommended for each customer group. Additionally, the product clusters helped in identifying similar characteristics in products and strategies were recommended to boost the sales of the products for each cluster.
 
