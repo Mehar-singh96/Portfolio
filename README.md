@@ -43,11 +43,6 @@ Different data sets on the use and sale of Cannabis in Canada were analyzed and 
 The skills used in the project: Tableau, Microsoft Excel
 
 
-Address Enrichment for Integrity (Exploratory Analysis) - [Tableau](https://public.tableau.com/views/final_hack/Sheet4?:display_count=y&:origin=viz_share_link)
-
-Address Enrichment for Integrity helps to provide insights about a given address by using open data sets that could characterize its locality. Extensive data cleaning and manipulation (Exploratory Analysis) were done on the collected open data sets using Microsoft Excel. Four square API were used to collect data to know the about the surrounding of the address data and was visualized using Tableau.
-The skills used in this project are : Tableau, Microsoft Excel, HTML, CSS, Bootstrap
-
 
 
 
