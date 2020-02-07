@@ -5,6 +5,11 @@ Email: meharsingh9966@gmail.com
 This portfolio is a compilation of notebooks and my projects which I completed to gain some hands-on experience in the data science domain and software development.
 
 
+Clustring - [github](https://github.com/Mehar-singh96/Clustring-Analysis)
+
+Sales data of Sobey was analyzed to understand customer purchase patterns and product patterns to classify them in distinct segments using centroid based K-Mean clustering analysis. The segmented data for customers was used to understand the purchase patterns of customers and marketing strategies were recommended for each customer group. Additionally, the product clusters helped in identifying similar characteristics in products and strategies were recommended to boost the sales of the products for each cluster.
+
+
 Halifax Public Library SQL Application - [github](https://github.com/Mehar-singh96/Halifax_Public_Library_PHP_SQL_Application.git)
 
 The project was focused to improve the existing database design of the library. The library had three immediate plans: To record all articles for each magazine, to record transaction history, to record monthly expenses. A backend data management system was created using relational database structure. A front end system was created for library administrative staff. 
