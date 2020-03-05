@@ -52,6 +52,17 @@ Different data sets on the use and sale of Cannabis in Canada were analyzed and 
 The skills used in the project: Tableau, Microsoft Excel
 
 
+Twitter scraping and visualisation - [Tableau](https://public.tableau.com/profile/mehar.singh#!/vizhome/twitterAssignment_15823322020490/Dashboard1?publish=yes)
+
+One of the most trending hashtag (#FriendsReunion) on Twitter was used and data was extracted regarding it. After Data cleaning, the data visulaization was performed on the data. Following factors were displayed via visualization:
+
+1. Common Language used
+2. Tweet / Retweet count
+3. Top Tweet sources
+4. Tweet count by top users
+
+
+
 
 
 
