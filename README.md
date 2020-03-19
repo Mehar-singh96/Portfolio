@@ -62,8 +62,9 @@ One of the most trending hashtag (#FriendsReunion) on Twitter was used and data 
 4. Tweet count by top users
 
 
+Nova Scotia Healthcare - [Tableau](https://public.tableau.com/profile/mehar.singh#!/vizhome/viz_15836686930000/Story1?publish=yes)
 
-
+This informative visualization was developed using Tableau that focused on improving healthcare service in Nova Scotia. It focused on the pain points in health care sector and recommended ways for optimizing resources and reducing cost.
 
 
 
