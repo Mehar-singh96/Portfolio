@@ -13,8 +13,6 @@ The analysis is carried out to study the acceptability of a car based on various
 • vgood
 Based on the developed models, the Random Forest algorithm with 10-fold cross validation results in the best accuracy. The study and models are explained in detail in the report.
 
-[asdjkfbas](www.google.com)
-
 
 Sobeys Data Analysis - [github](https://github.com/Mehar-singh96/Clustring-Analysis)
 
